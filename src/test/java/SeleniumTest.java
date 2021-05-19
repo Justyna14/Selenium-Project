@@ -10,8 +10,6 @@ public class SeleniumTest {
     @Test
     public void firstTest() {
         System.out.println("Hello!");
-        System.out.println("Hello!");
-        System.out.println("Hello!");
 
     }
 }
